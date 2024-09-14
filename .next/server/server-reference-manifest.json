@@ -1,0 +1,42 @@
+{
+  "node": {
+    "9ab7f4b997d99447a35a72ef52d4a9b1bbca6767": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.129_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-202_tssejjnrhyzjec7xuzohltdile/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.129_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-202_tssejjnrhyzjec7xuzohltdile/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.129_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-202_tssejjnrhyzjec7xuzohltdile/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "rsc"
+      }
+    },
+    "525e5c88e1aff0ad0351b04fb802550f732f3441": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.129_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-202_tssejjnrhyzjec7xuzohltdile/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "eea908272b618a1e06d919d38236ea9c78744f0d": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.129_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-202_tssejjnrhyzjec7xuzohltdile/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "461282c85120e730985d7fbf4bcff3b462eec7b7": {
+      "workers": {
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.129_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-202_tssejjnrhyzjec7xuzohltdile/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CME%5C%5COneDrive%5C%5CDesktop%5C%5CWork%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "e26WIUrT45WJ22SOPpmYmfQ5H1WF/xL+5g6uaJ5eUIs="
+}
